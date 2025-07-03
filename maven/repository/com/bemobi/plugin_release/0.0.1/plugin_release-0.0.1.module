@@ -42,11 +42,11 @@
         {
           "name": "plugin_release-0.0.1.aar",
           "url": "plugin_release-0.0.1.aar",
-          "size": 19994,
-          "sha512": "8a1ce10cc0f2e964af70843ec5aca0753bfe32bceea4b7728d759e361fca990297aa06c71e02649b42e4df14691b03f593d2cbe31450333d4703f18dc3c31fda",
-          "sha256": "275b021120bc6cd714f174382ffa22aad079722c81711d36d741f5bc4e7cee82",
-          "sha1": "eaffe34eaf1e8772b942f282a9f0d58a0ca41e23",
-          "md5": "3060151ba324b6d7d20c2b9835819e50"
+          "size": 20127,
+          "sha512": "6a181488f8b9aa94f4d6f5a77ab6a5f019b26e20671eb81feaf23862819609b63996b7731eb23ac1dc177dc5b519ee866dff6c46d3c14c5124d7c35e1ea3f899",
+          "sha256": "37a01791fea12400d5ac6871b6b9e9cd7e17566e326258355e36dc90a3c59768",
+          "sha1": "976dc717366f131a6646d1490af00f165bdb4f69",
+          "md5": "2bdf48a36df117b78f503b84c422ec55"
         }
       ]
     },
@@ -78,11 +78,11 @@
         {
           "name": "plugin_release-0.0.1.aar",
           "url": "plugin_release-0.0.1.aar",
-          "size": 19994,
-          "sha512": "8a1ce10cc0f2e964af70843ec5aca0753bfe32bceea4b7728d759e361fca990297aa06c71e02649b42e4df14691b03f593d2cbe31450333d4703f18dc3c31fda",
-          "sha256": "275b021120bc6cd714f174382ffa22aad079722c81711d36d741f5bc4e7cee82",
-          "sha1": "eaffe34eaf1e8772b942f282a9f0d58a0ca41e23",
-          "md5": "3060151ba324b6d7d20c2b9835819e50"
+          "size": 20127,
+          "sha512": "6a181488f8b9aa94f4d6f5a77ab6a5f019b26e20671eb81feaf23862819609b63996b7731eb23ac1dc177dc5b519ee866dff6c46d3c14c5124d7c35e1ea3f899",
+          "sha256": "37a01791fea12400d5ac6871b6b9e9cd7e17566e326258355e36dc90a3c59768",
+          "sha1": "976dc717366f131a6646d1490af00f165bdb4f69",
+          "md5": "2bdf48a36df117b78f503b84c422ec55"
         }
       ]
     },
@@ -98,11 +98,11 @@
         {
           "name": "plugin_release-0.0.1-sources.jar",
           "url": "plugin_release-0.0.1-sources.jar",
-          "size": 2478,
-          "sha512": "aeb91dfc5b72da32c993622d2b9a3dcf9f053803ae799b7e675cde9246f2f1df218fb4badcfdd98aef7240cd6d79e22e51a5b1c0b3f8d9ce6cbddb0d142cbaee",
-          "sha256": "209f09b9c9a7a6c42f2c28c582fee604e1d8067ce8ba09bd887880b2c4b67362",
-          "sha1": "abdffd091e239e175a0ed14ed0efcd0b97ba0ec8",
-          "md5": "03fabb58b7308227d329f9375169b2a5"
+          "size": 2491,
+          "sha512": "fd7e35cd12fb9526ef4cfac99139a0bf2a5ae6ebe8ea1e6e33534e8b75ed8c734b7f2a99db2f2e7db2a81c66411eae9e4312a8ec92353050e4cfce21090f4717",
+          "sha256": "308d6d7f46ab8aff8f72ad1b1f16b9b1e9d2258578c5ed3233dea0eb7bba4b62",
+          "sha1": "1b70b475f13eab4e3969f36deec90b4aa82507bb",
+          "md5": "c490c36269dafde648401d82114866b6"
         }
       ]
     },
@@ -118,11 +118,11 @@
         {
           "name": "plugin_release-0.0.1-javadoc.jar",
           "url": "plugin_release-0.0.1-javadoc.jar",
-          "size": 299270,
-          "sha512": "71c266de5c325b423e7631e614e312662d8bea9d42f7b07eb07b49ca113615cc85d4bda9f9e63068a9014498fa1e17ccd2547dde8116182a8cd4e8aebe7dd676",
-          "sha256": "1db024334c124a5e80cafaf90d9d8e5bdc5f86a8cf7811d44e6c15824428183b",
-          "sha1": "42c5ab488ae7b385055d60898c56e7bed9c5dff1",
-          "md5": "afee56565cf6f89c52fb672e8592c18e"
+          "size": 296263,
+          "sha512": "1b7e0429d9d2739e917441ff31eb13a00495c45628d916b4243a1c4b1b289fd0051c3e0dc187827b85233eb57fab43af0aa1726b79ef981adfe6f2c07fdcd75d",
+          "sha256": "8bc705f8663e1694ddc383cd5bb09e435c77424a2455deb9cfc16653294bc8f9",
+          "sha1": "40633f7e54dec91425281ab752b29985bb9848c2",
+          "md5": "8170725cd0fa35a8b2d10fbcd6f4681c"
         }
       ]
     }
